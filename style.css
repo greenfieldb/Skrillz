@@ -1,0 +1,31 @@
+h1{
+  font-size: 70px;
+  color: red;
+  font-family: fantasy;
+}
+
+h2{
+  font-size: 50px;
+  color: red;
+  font-family: fantasy;
+}
+
+p{
+  color: red;
+}
+
+h3{
+  color: red;
+}
+
+ol{
+  color: red;
+}
+
+Body{
+  background-color: black;
+}
+
+table{
+  color: red;
+}
